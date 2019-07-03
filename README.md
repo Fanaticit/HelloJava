@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/NTT-Limited/NTT-Limited/_apis/build/status/Fanaticit.HelloJava?branchName=master)](https://dev.azure.com/NTT-Limited/NTT-Limited/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
